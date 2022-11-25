@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajay Kumar Mahto</h1>
 <h3 align="center">A passionate Full-Stack/Android developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-ajay-kr&label=Profile%20views&color=0e75b6&style=flat" alt="dev-ajay-kr" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-ajay-kr" alt="dev-ajay-kr" /></a> </p>
-
 - 🌱 I’m currently learning **Android, Kotlin, MERN**
 
 - 💬 Ask me about **android, Java, HTML**
@@ -23,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-ajay-kr&show_icons=true&locale=en&layout=compact" alt="dev-ajay-kr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-ajay-kr&show_icons=true&locale=en" alt="dev-ajay-kr" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-ajay-kr&" alt="dev-ajay-kr" /></p>
