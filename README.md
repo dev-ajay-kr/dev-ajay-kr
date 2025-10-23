@@ -28,7 +28,7 @@ I'm a dedicated Software Engineer specializing in full-stack development. With a
 
 
 
-### 🤝 Connect with Me
+### 🤝 Socially Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ajay-kumar-mahto-84395123a/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
